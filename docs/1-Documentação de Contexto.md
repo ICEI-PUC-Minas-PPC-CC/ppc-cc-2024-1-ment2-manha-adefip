@@ -3,9 +3,9 @@
 Texto _descritivo_ com a **visão geral** do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
 
 ## Problema
-Nesse momento você deve apresentar o problema que seu grupo buscará resolver/minimizar. No entanto, não é a hora de comentar sobre a abordagem a ser utilizada para resolvê-lo.
+Dificuldade dos membros da ADEFIP em manusear e aprender a tocar instrumentos musicais, a falta de instrumentos intuitivos acessiveis para pessoas com dificuldade motora e cognitiva.
+A falta de acessibilidade gera uma frutação em pessoas que possuem o sonho e vontade de tocar instrumentos musicais, para essas pessoas que ja possuem dores e muitos desafios podem acabar sendo desanimados e gerando um efeito dominó negativo em sua vida.
 
-O grupo pode optar ainda, por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
 
 > **Links Úteis**:
 > - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
@@ -14,10 +14,11 @@ O grupo pode optar ainda, por fazer uso  de ferramentas como Design Thinking, qu
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho que será realizado pelo grupo indicando qual é o objetivo geral que se busca atingir para solucionar/minimizar o problema apresentado acima. 
-
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
+Nosso objetivo é viabilizar instrumentos musicais intuitivos e acessiveis para esse grupo social, através da criação de um instrumento intuitivo e acessivel.
+1-Fazer essas pessoas se incluirem em novas areas e terem a sensação de pertencimento e de reconhecimento em mais pessoas, se desenvolverem pessoalmente e socialmente.
+2-Solucionar essa dor como a do pianista incapacitado e a criança que deseja tocar, mas nasceu com dificuldades.
+3-Ajudar o professor que deseja ensinar e incentivar pessoas com dificuldades neuromotoras e cognitivas.
+4-Trazer mais visibilidade ao ambito musical para um grupo social sem visão nessa area. 
 > **Links Úteis**:
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
