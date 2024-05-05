@@ -28,4 +28,4 @@ https://produto.mercadolivre.com.br/MLB-2163563817-filamento-abs-preto-premium-1
 11- LED = https://produto.mercadolivre.com.br/MLB-4563023524-kit-50-pecas-led-difuso-3mm-arduino-5-cores-_JM#position=15&search_layout=grid&type=item&tracking_id=d964d6d9-f2ba-4c34-984e-5fea41ff5f2b
 
 -Segue imagens do projeto 3D
-<img src="IMG-20240503-WA0022.jpg" >
+<img src="IMG-20240503-WA0022.jpg" width = "40px">
