@@ -27,5 +27,17 @@ https://produto.mercadolivre.com.br/MLB-2163563817-filamento-abs-preto-premium-1
 
 11- LED = https://produto.mercadolivre.com.br/MLB-4563023524-kit-50-pecas-led-difuso-3mm-arduino-5-cores-_JM#position=15&search_layout=grid&type=item&tracking_id=d964d6d9-f2ba-4c34-984e-5fea41ff5f2b
 
+12- Switch = https://produto.mercadolivre.com.br/MLB-965390591-modulo-chave-push-button-ky-004-para-arduino-esp8266-esp32-_JM?matt_tool=18956390&utm_source=google_shopping&utm_medium=organic
+
+            https://produto.mercadolivre.com.br/MLB-3656551947-chave-interruptor-2-posicoes-slide-para-arduino-_JM?matt_tool=18956390&utm_source=google_shopping&utm_medium=organic
+
 -Segue imagens do projeto 3D
-<img src="IMG-20240503-WA0022.jpg" width = "40px">
+![IMG-20240503-WA0022](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-1-ment2-manha-adefip/assets/129862124/0e123e7e-4549-421e-8c55-9240fb3e205d)
+
+![IMG-20240503-WA0023](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-1-ment2-manha-adefip/assets/129862124/c97d40ee-6e07-4c65-8d30-6ec139a8b988)
+
+![IMG-20240503-WA0024](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-1-ment2-manha-adefip/assets/129862124/52be7e03-fff2-4a46-922a-c1eadd99596a)
+
+![IMG-20240503-WA0025](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-1-ment2-manha-adefip/assets/129862124/bebe7e18-3fef-4b95-8519-449cdbf6ad0a)
+
+
