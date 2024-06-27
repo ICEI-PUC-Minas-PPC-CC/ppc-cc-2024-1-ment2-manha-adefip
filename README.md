@@ -7,9 +7,8 @@
 ## Integrantes
 
 - Samuel Batuira
-- Leonardo Dias Cohen
-- João Gabriel Costa Barbosa
-- Thiago Monchiero
+
+
 
 ## Professor
 
