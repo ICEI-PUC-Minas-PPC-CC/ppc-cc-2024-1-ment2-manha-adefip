@@ -7,3 +7,4 @@ O projeto começando a tomar a minima forma foi muito satisfatorio, pois é grat
 Para ser feito com mais eficiencia é necessario um grupo disposto de correr atrás de concluir ele, a impressão 3d, e a logica de colocar ele dentro da impressão.
 Nossa prática extensionista foi bem esclarecedora e um forte agradecimento ao Giovane do periodo da noite, ajudou muito mais do que grande maioria dos participantes do grupo, teve mais entusiasmo que os mesmos, meu contato com ele foi na pratica extensionista.
 
+https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-1-ment2-manha-adefip/assets/129862124/5d681680-1bc9-4b4f-b9de-23fc39984264
